@@ -1,6 +1,8 @@
 # Primeiro WebSite
 Repositório para MVP do site FiscalizA.I da minha equipe, destinado ao Hackaton RetailTech SEBRAE
 
+![image](https://github.com/user-attachments/assets/3c030494-863c-42c1-8556-bd4cd754411b)
+
 Atualmente mantido gratuitamente pelo Netlify no seguinte link:
 
 https://fiscalizai.netlify.app/
