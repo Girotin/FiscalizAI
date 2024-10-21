@@ -1,5 +1,5 @@
 # Primeiro WebSite
-Repositório para MVP do site FiscalizA.I da minha equipe, Destinado ao Hackaton RetailTech SEBRAE
+Repositório para MVP do site FiscalizA.I da minha equipe, destinado ao Hackaton RetailTech SEBRAE
 
 Atualmente mantido gratuitamente pelo Netlify no seguinte link:
 
