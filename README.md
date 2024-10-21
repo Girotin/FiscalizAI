@@ -10,12 +10,8 @@ https://fiscalizai.netlify.app/
 É meu primeiro site de fato hosteado em um domínio acessível em qualquer computador.
 Foi de grande utilidade no meu começo com HTML e CSS.
 
-Inclui contextualização simples com um banner, imagens, fontes personalizadas e um Chatbot integrado, feito no Landbot AI.
+Inclui contextualização simples com um banner, imagens, fontes personalizadas e um Chatbot integrado feito em parceria com o @JoaoPauloMoroVenancioDaSilva do meu time durante o Hackaton:
 
-Chatbot feito em parceria com o @JoaoPauloMoroVenancioDaSilva do meu time durante o Hackaton:
+(https://github.com/JoaoPauloMoroVenancioDaSilva)[João Paulo]
 
-(João Paulo)[https://github.com/JoaoPauloMoroVenancioDaSilva]
-
-https://github.com/JoaoPauloMoroVenancioDaSilva
-
-Utiliza um template base do W3Schools
+Utiliza um template base do W3Schools, o chatbot foi feito com o Landbot AI
