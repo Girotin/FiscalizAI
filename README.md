@@ -14,7 +14,7 @@ Inclui contextualização simples com um banner, imagens, fontes personalizadas 
 
 Chatbot feito em parceria com o @JoaoPauloMoroVenancioDaSilva do meu time durante o Hackaton:
 
-[https://github.com/JoaoPauloMoroVenancioDaSilva](João Paulo)
+(João Paulo)[https://github.com/JoaoPauloMoroVenancioDaSilva]
 
 https://github.com/JoaoPauloMoroVenancioDaSilva
 
