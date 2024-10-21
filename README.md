@@ -3,8 +3,6 @@ Repositório para MVP do site FiscalizA.I da minha equipe, destinado ao Hackaton
 
 ![image](https://github.com/user-attachments/assets/3c030494-863c-42c1-8556-bd4cd754411b)
 
-![image](https://github.com/user-attachments/assets/3f20ba0a-0ec3-4929-a75d-ea1172e0bab3)
-
 Atualmente mantido gratuitamente pelo Netlify no seguinte link:
 
 https://fiscalizai.netlify.app/
