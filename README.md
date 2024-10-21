@@ -12,7 +12,7 @@ Foi de grande utilidade no meu começo com HTML e CSS.
 
 Inclui contextualização simples com um banner, imagens, fontes personalizadas e um Chatbot integrado, feito no Landbot AI.
 
-Chatbot feito em parceria com o João Paulo do meu time durante o Hackaton:
+Chatbot feito em parceria com o @JoaoPauloMoroVenancioDaSilva do meu time durante o Hackaton:
 https://github.com/JoaoPauloMoroVenancioDaSilva
 
 Utiliza um template base do W3Schools
